@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" tests="10" assertions="29" failures="0" errors="0" time="0.005380">
+    <testcase name="testInitCart" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="7" assertions="2" time="0.002978"/>
+    <testcase name="testAdd" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="13" assertions="3" time="0.000322"/>
+    <testcase name="testAddNotNumeric" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="20" assertions="0" time="0.000244"/>
+    <testcase name="testAddFloat" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="30" assertions="0" time="0.000262"/>
+    <testcase name="testGetAmount" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="40" assertions="7" time="0.000293"/>
+    <testcase name="testGetItems" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="57" assertions="4" time="0.000247"/>
+    <testcase name="testClearCart" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="69" assertions="2" time="0.000213"/>
+    <testcase name="testAddUpperLimit" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="79" assertions="0" time="0.000211"/>
+    <testcase name="testAddUnderLimit" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="90" assertions="4" time="0.000243"/>
+    <testcase name="testAddRemove" class="CartTest" file="/Users/Megumi/Documents/test_set/CartTest.php" line="104" assertions="7" time="0.000367"/>
+  </testsuite>
+</testsuites>
